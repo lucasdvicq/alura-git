@@ -1,2 +1,2 @@
 # alura-git
-Curso da alura de Gîț e git-hub
+Curso da alura de Git e git-hub
